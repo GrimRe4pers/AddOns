@@ -1,0 +1,2 @@
+.theme-dark .container-2lgZY8,.theme-dark .standardSidebarView-3F1I7i,.titleBar-AC4pGV::after {background-color: var(--light)} /* Brightness */
+.titleBar-AC4pGV::after {content:""; position:absolute; z-index:-1; top:0; left:0; right:0; width:100%; height:22px} /* Titlebar layer */
